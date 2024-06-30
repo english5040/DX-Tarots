@@ -54,6 +54,8 @@ DX version of Tarot cards were added. They have a 10% *(can be edited)* chance o
 
 - **The World DX**: Converts up to **5** selected cards.
 
+- **The Seeker DX**: Creates up to 2 random **DX** Alchemical cards. *Requires Codex Arcanum.*
+
 ### Planets
 
 DX planet cards will upgrade their respective hand level by **2**. They have a 12% *(can be edited)* chance of being pulled instead of a vanilla planet. They each cost **$5**.  
@@ -100,6 +102,8 @@ DX version of Spectral cards were added. They have a 15% *(can be edited)* chanc
 
 - **Black Hole DX**: Upgrade every poker hand by **3** levels.
 
+- **Philosopher's Stone DX**: Retrigger all played cards for **three** blinds. *Requires Codex Arcanum.*
+
 ### Boosters
 
 DX version of Booster packs were added. They have a 10% *(can be edited)* chance of replacing a vanilla pack in shops. They each cost **$2** more than their original counterpart and provide one extra card to pick from. They are **Unique**.
@@ -114,25 +118,125 @@ DX version of Booster packs were added. They have a 10% *(can be edited)* chance
 
 - **Buffoon DX**: Increased chance to pull **uncommon and rare** jokers. Increased chance to get **editions**.
 
+- **Alchemy DX**: Increased chance to pull **DX Alchemicals**. *Requires Codex Arcanum.*
+
+### Alchemicals (Codex Arcanum)
+
+DX version of Alchemical cards were added. They have a 10% *(can be edited)* chance of being pulled instead of a vanilla alchemical. They each cost **$5**.
+
+- **Ignis DX**: Gain **2** discards.
+
+- **Aqua DX**: Gain **2** hands.
+
+- **Terra DX**: Reduce blind by **30%**.
+
+- **Aero DX**: Draw **8** cards.
+
+- **Quicksilver DX**: **+4** hand size for one blind.
+
+- **Salt DX**: Gain **2** tags.
+
+- **Sulfur DX**: Reduce hands to 1. Gain **$6** for each hand removed.
+
+- **Phosphorus DX**: Draw **8** discarded cards.
+
+- **Bismuth DX**: Converts up to **4** selected cards to polychrome for one blind.
+
+- **Cobalt DX**: Upgrade selected poker hand by **3** levels.
+
+- **Arsenic DX**: Set **both** hands and discards to the **highest value** of the two.
+
+- **Antimony DX**: Create a negative eternal copy of a **selected** joker for one blind.
+
+- **Soap DX**: Select up to 3 cards. Replace **any non selected card** with cards from your deck.
+
+- **Manganese DX**: Enhances up to 4 selected cards into Steel Cards for one blind. **Creates a copy of Manganese**.
+
+- **Wax DX**: Create **4** temporary copies of a selected card.
+
+- **Borax DX**: Converts **your hand** into most common suit for one blind.
+
+- **Glass DX**: Enhances up to 4 selected cards into Glass Cards for one blind. **Creates a copy of Glass**.
+
+- **Magnet DX**: Draw **4** cards of the same rank as the selected one.
+
+- **Gold DX**: Enhances up to 4 selected cards into Gold Cards for one blind. **Creates a copy of Gold**.
+
+- **Silver DX**: Enhances up to 4 selected cards into Lucky Cards for one blind. **Creates a copy of Silver**.
+
+- **Oil DX**: Removes debuffs of **all cards in hand**. **Creates a copy of Oil**.
+
+- **Acid DX**: Select up to **3** cards, destroy all cards of the selected ranks. All cards are returned after one blind.
+
+- **Brimstone DX**: **+2** hands and discards.
+
+- **Uranium DX**: Copy the selected card's enhancement, seal, and edition to **unenhanced cards in hand** for one blind.
+
 ## Cursed Cards
 
 A new badge was created for **Cursed** consumables. They are greatly enhanced versions of their original counterpart that gives you a set number of random curse(s) upon being used.
 
-## Unique Cards
+### Cursed Tarots
 
-A new badge was created for **Unique** cards. Once pulled, they can no longer be pulled during the run.
+Cursed version of Tarot cards were added. They have a 8% *(can be edited)* chance of being pulled instead of a vanilla tarot. They each cost **$5**. They are **Unique**.
 
-### Curses
+- **The Cursed Fool**: **+1 consumable slot**. Creates **2 copies** of **The Fool DX**.
+
+- **The Cursed Magician**: **Doubles all listed probabilities**. Creates a copy of **The Magician DX**.
+
+- **The Cursed High Priestess**: Planet cards are **2 times more likely** to get an **edition**. Creates up to 2 random **DX** Planet cards.
+
+- **The Cursed Empress**: Increase Mult cards multiplier **from 4 to 12**. Creates a copy of **The Empress DX**.
+
+- **The Cursed Emperor**: Creates 6 random **negative DX Tarot** cards.
+
+- **The Cursed Hierophant**: Increase Bonus cards extra chips **from 30 to 90**. Creates a copy of **The Hierophant DX**.
+
+- **The Cursed Lovers**: Wild cards now **copy the rank of the card to their left** (if applicable). Creates a copy of **The Lovers DX**.
+
+- **The Cursed Chariot**: Increase Steel cards multiplier **from 1.5 to 2.5**. Creates a copy of **The Chariot DX**.
+
+- **Cursed Justice**: Increase Glass cards multiplier **from 2 to 3.5**. Creates a copy of **Justice DX**.
+
+- **The Cursed Hermit**: Gives **$50**.
+
+- **The Cursed Wheel of Fortune**: **Add an edition** to a random joker, **1 in 2 chance to repeat once**.
+
+- **Cursed Strength**: Select up to 5 cards. **Rank up all cards matching selected ranks**.
+
+- **The Cursed Hanged Man**: Select up to 4 cards. **Destroys all cards matching selected ranks**.
+
+- **Cursed Death**: Select up to **5** cards. Convert the left ones into the right one. Gives two copies of **Death DX**.
+
+- **Cursed Temperance**: Gives **$10** per Joker.
+
+- **The Cursed Devil**: Increase Gold cards gain from **$3 to $8**. Creates a copy of **The Devil DX**.
+
+- **The Cursed Tower**: Stone cards now grants **250 chips and 4 mult**. Creates a copy of **The Tower DX**.
+
+- **The Cursed Star**: Diamond cards **cannot get debuffed**. Creates a copy of **The Star DX**.
+
+- **The Cursed Moon**: Club cards **cannot get debuffed**. Creates a copy of **The Moon DX**.
+
+- **The Cursed Sun**: Heart cards **cannot get debuffed**. Creates a copy of **The Sun DX**.
+
+- **Cursed Judgement**: Creates a random **rare** joker with a **random edition**.
+
+- **The Cursed World**: Spade cards **cannot get debuffed**. Creates a copy of **The World DX**.
+
+- **The Cursed Seeker**: Alchemical packs and cards are **free**. Alchemical cards are **2 times** more likely to be **DX**. *Requires Codex Arcanum.*
+
+## Curses
 
 **Curses** are special tags that will affect your run upon being received. They can be lifted if specific conditions are met.
 
-- **The Hook**: Discards **1** random card per hand played. Lifted after discarding **40 cards**.
+- **The Hook**: Discards **1** random card per hand played. Lifted after discarding **60 cards**.
 
 - **The Wall**: Increase blind amounts by **40%**. Lifted after scoring more than **150%** of the blind ammount **2 times**.
 
-- **The Wheel**: **1 in 9** cards get drawn face down. Lifted after playing **5 hands** containing at least **3** face down cards.
+- **The Wheel**: **1 in 8** cards get drawn face down. Lifted after playing **5 hands** containing at least **3** face down cards.
 
-- **The Arm**: **1 in 7** chance to decrease level of played poker hand. Lifted after playing **40 levels** worth of poker hands.
+- **The Arm**: **1 in 6** chance to decrease level of played poker hand. Lifted after playing **40 levels** worth of poker hands.
 
 - **The Psychic**: **X0.6 mult** if played hand does not contain 5 cards. Lifted after playing **12 hands** containing 5 cards.
 
@@ -140,9 +244,9 @@ A new badge was created for **Unique** cards. Once pulled, they can no longer be
 
 - **The Water**: **-1** discard. Lifted after defeating **3 blinds** without using discards.
 
-- **The Eye**: **X0.65 mult** if played hand type was already played this round. Lifted after defeating **3 blinds** with no repeated hands.
+- **The Eye**: **X0.6 mult** if played hand type was already played this round. Lifted after defeating **3 blinds** with no repeated hands.
 
-- **The Mouth**: **X0.65 mult** if played hand type is different than the first played this round. Lifted after defeating **3 blinds** with the first played hand.
+- **The Mouth**: **X0.6 mult** if played hand type is different than the first played this round. Lifted after defeating **3 blinds** with the first played hand.
 
 - **The Plant**: **2 in 5** chance for a face card to be debuffed. Lifted after playing **12 hands** with no scoring face card.
 
@@ -174,53 +278,9 @@ A new badge was created for **Unique** cards. Once pulled, they can no longer be
 
 - **Violet Vessel**: Increase blind amounts by **50%**. Future curses will increase the amount instead of applying new curses. **Cannot be lifted**.
 
-### Cursed Tarots
+## Unique Cards
 
-Cursed version of Tarot cards were added. They have a 8% *(can be edited)* chance of being pulled instead of a vanilla tarot. They each cost **$5**. They are **Unique**.
-
-- **The Cursed Fool**: **+1 consumable slot**. Creates **2 copies** of **The Fool DX**.
-
-- **The Cursed Magician**: **Doubles all listed probabilities**. Creates a copy of **The Magician DX**.
-
-- **The Cursed High Priestess**: Planet cards are **2 times more likely** to get an **edition**. Creates up to 2 random **DX** Planet cards.
-
-- **The Cursed Empress**: Increase Mult cards multiplier **from 4 to 12**. Creates a copy of **The Empress DX**.
-
-- **The Cursed Emperor**: Creates 6 random **negative DX Tarot** cards.
-
-- **The Cursed Hierophant**: Increase Bonus cards extra chips **from 30 to 90**. Creates a copy of **The Hierophant DX**.
-
-- **The Cursed Lovers**: Wild cards now **copy the rank of the card to their left** (if applicable). Creates a copy of **The Lovers DX**.
-
-- **The Cursed Chariot**: Increase Steel cards multiplier **from 1.5 to 2.5**. Creates a copy of **The Chariot DX**.
-
-- **Cursed Justice**: Increase Glass cards multiplier **from 2 to 3.5**. Creates a copy of **Justice DX**.
-
-- **The Cursed Hermit**: Gives **$50**.
-
-- **The Cursed Wheel of Fortune**: **Add an edition** to a random joker, **1 in 3 chance to repeat once**.
-
-- **Cursed Strength**: Select up to 5 cards. **Rank up all cards matching selected ranks**.
-
-- **The Cursed Hanged Man**: Select up to 4 cards. **Destroys all cards matching selected ranks**.
-
-- **Cursed Death**: Select up to **5** cards. Convert the left ones into the right one. Gives two copies of **Death DX**.
-
-- **Cursed Temperance**: Gives **$10** per Joker.
-
-- **The Cursed Devil**: Increase Gold cards gain from **$3 to $8**. Creates a copy of **The Devil DX**.
-
-- **The Cursed Tower**: Stone cards now grants **250 chips and 4 mult**. Creates a copy of **The Tower DX**.
-
-- **The Cursed Star**: Diamond cards **cannot get debuffed**. Creates a copy of **The Star DX**.
-
-- **The Cursed Moon**: Club cards **cannot get debuffed**. Creates a copy of **The Moon DX**.
-
-- **The Cursed Sun**: Heart cards **cannot get debuffed**. Creates a copy of **The Sun DX**.
-
-- **Cursed Judgement**: Creates a random **rare** joker.
-
-- **The Cursed World**: Spade cards **cannot get debuffed**. Creates a copy of **The World DX**.
+A new badge was created for **Unique** cards. Once pulled, they can no longer be pulled during the run. You can disable this feature.
 
 ## Vouchers
 
