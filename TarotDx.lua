@@ -3012,7 +3012,7 @@ local function overrides()
                 G.STATE = G.STATES.BUFFOON_PACK
                 G.GAME.pack_size = self.ability.extra
             elseif self.ability.name:find('Alchemy') then
-                G.STATES.STANDARD_PACK
+                G.STATE = G.STATES.STANDARD_PACK
                 G.GAME.pack_size = self.ability.extra
             end
 
