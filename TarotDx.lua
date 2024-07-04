@@ -1452,6 +1452,18 @@ local function overrides()
                             delay(1.3)
                         end
                     end
+                    -- Cryptid Astral Compat
+                    if SMODS.Mods and SMODS.Mods['Cryptid'] and card.edition.cry_astral then
+                        G.GAME.hands[hand].mult = math.floor(math.max(G.GAME.hands[hand].mult ^ 1.1, 1))
+                        if not instant then
+                            G.E_MANAGER:add_event(Event({trigger = 'after', delay = 0.3, func = function()
+                                play_sound('cry_^Mult')
+                                card:juice_up(0.8, 0.5)
+                                return true end }))
+                            update_hand_text({delay = 0}, {mult = '^1.1', StatusText = true})
+                            delay(1.3)
+                        end
+                    end
                     -- Cryptid Glitched compat
                     if SMODS.Mods and SMODS.Mods['Cryptid'] and card.edition.cry_glitched then
 
